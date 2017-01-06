@@ -3,6 +3,7 @@ A Java GUI implementations of revised traditional number slider game application
 
 ## Table of Contents:
 * [Credits](https://bitbucket.org/chenchenece/number-slider-puzzle-game-app/overview#markdown-header-credits)
+* [How to Run Project](https://bitbucket.org/chenchenece/number-slider-puzzle-game-app/overview#markdown-header-how-to-run-project)
 * [Project Information](https://bitbucket.org/chenchenece/number-slider-puzzle-game-app/overview#markdown-header-project-information)
 * [Design Idea](https://bitbucket.org/chenchenece/number-slider-puzzle-game-app/overview#markdown-header-design-idea)
 * [Gaming Rule and Game Panel](https://bitbucket.org/chenchenece/number-slider-puzzle-game-app/overview#markdown-header-gaming-rule-and-game-panel)
@@ -15,6 +16,16 @@ A Java GUI implementations of revised traditional number slider game application
 
 * [Dr. Kristof Cools](http://www.nottingham.ac.uk/engineering/departments/eee/people/kristof.cools) 
 * All teaching assistant of Web Based Computing (H63JAV) (Spring 2016) (University of Nottingham)
+
+## How to Run Project
+
+The distributed output app can be refer to './dist/NumberSliderPuzzleGameApp.jar'.
+
+To start, first cd to the './dist' directory and run following command:
+
+<pre>
+java -jar "NumberSliderPuzzleGameApp.jar"
+</pre>
 
 ## Project Information
 
